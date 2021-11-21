@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637730454324588887
-    m_Hash: 1877115395
+      ticks: 637731149876520781
+    m_Hash: 3398246579
   m_LockFileStatus:
     m_FilePath: C:/Users/beara/Desktop/New Unity Games/What_The_Cluck/What The Cluck/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637730454454758730
-    m_Hash: 2077531038
+      ticks: 637731149876671434
+    m_Hash: 2098352642
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,12 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/beara/Desktop/New Unity Games/What_The_Cluck/What The Cluck/Packages
 m_EditorVersion: 2021.1.16f1 (5fa502fca597)
 m_ResolvedPackages:
-- packageId: com.unity.2d.animation@6.0.4
+- packageId: com.unity.2d.animation@6.0.7
   testable: 0
   isDirectDependency: 1
-  version: 6.0.4
+  version: 6.0.7
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.animation@6.0.4
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.animation@6.0.7
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -167,23 +167,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637595599240000000
+  datePublishedTicks: 637692088370000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: c6acc0f0e19f89c41e384fa1a602555072cbb8cc
+    revision: 1be138dca8dc9f0655fe7bde7969af10893d0ff4
     path: 
   unityLifecycle:
     version: 6.0.4
     nextVersion: 
-- packageId: com.unity.2d.pixel-perfect@5.0.0
+- packageId: com.unity.2d.pixel-perfect@5.0.1
   testable: 0
   isDirectDependency: 1
-  version: 5.0.0
+  version: 5.0.1
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.0
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.1
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -245,23 +245,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637526400420000000
+  datePublishedTicks: 637637493430000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 82ee1598c2f1270bc1081c1f908364e528335bd5
+    revision: 404f29a83b5666c45c2386a031f1f653fc6fd00d
     path: 
   unityLifecycle:
     version: 5.0.0
     nextVersion: 
-- packageId: com.unity.2d.psdimporter@5.0.4
+- packageId: com.unity.2d.psdimporter@5.0.6
   testable: 0
   isDirectDependency: 1
-  version: 5.0.4
+  version: 5.0.6
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.psdimporter@5.0.4
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.psdimporter@5.0.6
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -333,7 +333,7 @@ m_ResolvedPackages:
   - name: com.unity.2d.common
     version: 5.0.0
   - name: com.unity.2d.animation
-    version: 6.0.4
+    version: 6.0.7
   - name: com.unity.2d.sprite
     version: 1.0.0
   resolvedDependencies:
@@ -352,7 +352,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.2d.animation
-    version: 6.0.4
+    version: 6.0.7
   - name: com.unity.mathematics
     version: 1.2.1
   - name: com.unity.modules.animation
@@ -373,13 +373,13 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637595600020000000
+  datePublishedTicks: 637692088430000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: c6acc0f0e19f89c41e384fa1a602555072cbb8cc
+    revision: 1be138dca8dc9f0655fe7bde7969af10893d0ff4
     path: 
   unityLifecycle:
     version: 5.0.4
@@ -438,12 +438,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.2d.spriteshape@6.0.1
+- packageId: com.unity.2d.spriteshape@6.0.2
   testable: 0
   isDirectDependency: 1
-  version: 6.0.1
+  version: 6.0.2
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.spriteshape@6.0.1
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.spriteshape@6.0.2
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -532,7 +532,7 @@ m_ResolvedPackages:
   - name: com.unity.2d.common
     version: 5.0.0
   - name: com.unity.2d.path
-    version: 5.0.0
+    version: 5.0.1
   - name: com.unity.modules.physics2d
     version: 1.0.0
   resolvedDependencies:
@@ -553,7 +553,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.uielementsnative
     version: 1.0.0
   - name: com.unity.2d.path
-    version: 5.0.0
+    version: 5.0.1
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -575,13 +575,13 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637595600290000000
+  datePublishedTicks: 637692088520000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: c6acc0f0e19f89c41e384fa1a602555072cbb8cc
+    revision: dc06716385df1e86502c8ed354138f6562ea6e0a
     path: 
   unityLifecycle:
     version: 6.0.1
@@ -940,12 +940,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.7
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.9
+- packageId: com.unity.ide.visualstudio@2.0.12
   testable: 0
   isDirectDependency: 1
-  version: 2.0.9
+  version: 2.0.12
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.ide.visualstudio@2.0.9
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.ide.visualstudio@2.0.12
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -988,7 +988,7 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.27
+    version: 1.1.30
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -1008,23 +1008,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637580705480000000
+  datePublishedTicks: 637720564750000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: c7cd4c6319806423b3d918b3e9599244e3993d41
+    revision: 8d436ff053b9c59677b5e9799208143553cd02d9
     path: 
   unityLifecycle:
     version: 2.0.9
     nextVersion: 
-- packageId: com.unity.ide.vscode@1.2.3
+- packageId: com.unity.ide.vscode@1.2.4
   testable: 0
   isDirectDependency: 1
-  version: 1.2.3
+  version: 1.2.4
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.ide.vscode@1.2.3
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.ide.vscode@1.2.4
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -1072,23 +1072,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637394922300000000
+  datePublishedTicks: 637660806170000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-    revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
+    url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
+    revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
     path: 
   unityLifecycle:
     version: 1.2.3
     nextVersion: 
-- packageId: com.unity.test-framework@1.1.27
+- packageId: com.unity.test-framework@1.1.30
   testable: 0
   isDirectDependency: 1
-  version: 1.1.27
+  version: 1.1.30
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.test-framework@1.1.27
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.test-framework@1.1.30
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1169,13 +1169,13 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637594751620000000
+  datePublishedTicks: 637702469360000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
+    url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+    revision: 4a3f541cb46e2f6875b3a938daba8c7113020873
     path: 
   unityLifecycle:
     version: 1.1.27
@@ -1345,12 +1345,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.6
     nextVersion: 
-- packageId: com.unity.timeline@1.5.6
+- packageId: com.unity.timeline@1.5.7
   testable: 0
   isDirectDependency: 1
-  version: 1.5.6
+  version: 1.5.7
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.timeline@1.5.6
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.timeline@1.5.7
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1482,13 +1482,13 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637613662510000000
+  datePublishedTicks: 637704360510000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: bba45362fa74fde39bfa14d05688da527254b39f
+    revision: b0c6687b4bae7608c23b04edd20e0b8002476c6f
     path: 
   unityLifecycle:
     version: 1.5.6
@@ -3669,10 +3669,12 @@ m_ResolvedPackages:
     - 1.1.0
     - 1.2.1
     - 1.2.4
+    - 1.2.5
     compatible:
     - 1.2.1
     - 1.2.4
-    verified: 1.2.4
+    - 1.2.5
+    verified: 1.2.5
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -3744,6 +3746,7 @@ m_ResolvedPackages:
     - 6.0.0-pre.3
     - 6.0.0-pre.4
     - 6.0.0
+    - 6.0.1
     - 7.0.0-pre.3
     compatible:
     - 5.0.0
@@ -3791,12 +3794,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 5.0.0
     nextVersion: 
-- packageId: com.unity.2d.path@5.0.0
+- packageId: com.unity.2d.path@5.0.1
   testable: 0
   isDirectDependency: 0
-  version: 5.0.0
+  version: 5.0.1
   source: 1
-  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.path@5.0.0
+  resolvedPath: C:\Users\beara\Desktop\New Unity Games\What_The_Cluck\What The Cluck\Library\PackageCache\com.unity.2d.path@5.0.1
   assetPath: Packages/com.unity.2d.path
   name: com.unity.2d.path
   displayName: 2D Path
@@ -3853,13 +3856,13 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637526399200000000
+  datePublishedTicks: 637661771910000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 82ee1598c2f1270bc1081c1f908364e528335bd5
+    revision: bcbc5fb1cb18a1a4cf6e15325550ed4b8fbb21bc
     path: 
   unityLifecycle:
     version: 5.0.0
